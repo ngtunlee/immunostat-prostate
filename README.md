@@ -7,5 +7,6 @@ Authors: Hemanth K. Potluri, Tun Lee Ng, Michael A. Newton, Jin Zhang, Christoph
 
 Version: 2020-07-29
 
-For full supplemental document, please click [here](https://github.com/ngtunlee/immunostat-prostate/blob/master/analysis/09_combined_analysis.pdf).
+To navigate to the supplemental document, please click [here](https://github.com/ngtunlee/immunostat-prostate/blob/master/analysis/09_combined_analysis.pdf).
 
+To navigate to the R script, please click [here](https://github.com/ngtunlee/immunostat-prostate/blob/master/analysis/09_combined_analysis.R).
